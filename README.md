@@ -57,10 +57,6 @@ findServerByName(name);	//axios.get
 
 ![Image](Screenshot 2025-10-20 231107.png)
 ![Image]()
-![Image](https://github.com/user-attachments/assets/66cba476-61db-4174-b8f0-15e71bb70c14)
-![Image](https://github.com/user-attachments/assets/7c9f5a93-7d68-4e84-bfba-c801f95b3aa3)
-![Image](https://github.com/user-attachments/assets/ec9767c6-3401-4220-9a7a-993b951c575e)
-
 # Kaiburr React Web Application
 
 ## 🚀 Containerizing the Application
