@@ -56,7 +56,7 @@ findServerByName(name);	//axios.get
 ### Screenshots
 
 ![Image](Screenshot 2025-10-20 231107.png)
-![Image]()
+![Image](Screenshot 2025-10-20 231126.png)
 # Kaiburr React Web Application
 
 ## 🚀 Containerizing the Application
