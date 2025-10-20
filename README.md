@@ -51,7 +51,7 @@ findServerById(id);	//axios.get
 findServerByName(name);	//axios.get
 ```
 
-![Image](https://github.com/user-attachments/assets/068113a0-d3f3-4b2b-9d43-fd72d2ff59a0)
+
 
 ### Screenshots
 
